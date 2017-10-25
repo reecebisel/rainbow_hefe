@@ -78,7 +78,8 @@ hi cursorim       	guifg=#ffffff guibg=#8800ff guisp=#8800ff gui=NONE ctermfg=15
 hi lcursor        	guifg=#ffffff guibg=#8800ff guisp=#8800ff gui=NONE ctermfg=15   ctermbg=93   cterm=NONE
 
 " Ruby Specific Overrides"
-hi rubyDefine 			guifg=#dcdc78 guibg=NONE    guisp=NONE    gui=NONE ctermfg=186  ctermbg=NONE cterm=NONE
-hi rubyConditional	guifg=#d84070 guibg=NONE 		guisp=NONE 		gui=NONE ctermfg=168  ctermbg=NONE cterm=NONE
-hi rubyException		guifg=#8040ff guibg=NONE 		guisp=NONE		gui=NONE ctermfg=13 	ctermbg=NONE cterm=NONE
-hi rubyClass				guifg=#ffa8ff guibg=NONE    guisp=NONE    gui=NONE ctermfg=219  ctermbg=NONE cterm=NONE
+hi rubyDefine 			guifg=#dcdc78 guibg=NONE guisp=NONE gui=NONE ctermfg=186 ctermbg=NONE cterm=NONE
+hi rubyConditional	    guifg=#d84070 guibg=NONE guisp=NONE gui=NONE ctermfg=168 ctermbg=NONE cterm=NONE
+hi rubyException		guifg=#8040ff guibg=NONE guisp=NONE gui=NONE ctermfg=13	 ctermbg=NONE cterm=NONE
+hi rubyClass			guifg=#ffa8ff guibg=NONE guisp=NONE gui=NONE ctermfg=219 ctermbg=NONE cterm=NONE
+hi rubyModule           guifg=#00D7FF guibg=NONE guisp=NONE gui=NONE ctermfg=45  ctermbg=NONE cterm=NONE
